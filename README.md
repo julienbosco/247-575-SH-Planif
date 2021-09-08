@@ -11,7 +11,7 @@ Disponible sur Omnivox ou via [Google Calendar](https://calendar.google.com/cale
 
 ## Livrables 📝
 
-* Journal de bord
+* [Journal de bord](journal-de-bord/README.md)
 * [Cahier des charges](cahier-des-charges/README.md)
 * Commande de pièces
 * Devis technique
