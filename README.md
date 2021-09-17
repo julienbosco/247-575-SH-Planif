@@ -3,6 +3,8 @@
 ## Nouvelles 📰
 ### 8 septembre 2021
 Il est important d'aller s'inscrire sur GitHub Classrooms. Voici le [lien](https://classroom.github.com/classrooms/62949176-247-575-sh-planification).
+### 17 septembre 2021
+Ajout d'un exemple de [cahier des charges](cahier-des-charges/Cahier_des_charges_-_projet.pdf). 
 ## Présentation du cours 👋
 Les livrables sont à remettre sur GitHub Classrooms. Pour s'inscrire: https://classroom.github.com/g/pZcBUdgs.
 
