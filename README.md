@@ -1,6 +1,8 @@
 # Planification de projet (247-575-SH)
 
 ## Nouvelles 📰
+### Guide Markdown
+https://guides.github.com/features/mastering-markdown/
 ### 8 octobre 2021
 Ajout du livrable de commande de pièces avec gabarit Excel.
 ### 17 septembre 2021
