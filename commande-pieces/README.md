@@ -1,6 +1,11 @@
 # Commandes de pièces
 Normalement, votre projet, ces objectifs et contraintes sont définies. Il est temps maintenant de faire l'inventaire du matériel nécessaire pour la réalisation du prototype. Vous trouverez dans ce dossier un gabarit Excel. Remplir les champs pour chaque pièce/item à commander. Lire les commentaires de chaque champ pour avoir plus de détails. Si un champ ne peut être rempli, le laisser vide. Il est important d'indiquer si la pièce doit être commandée ou non. Il se pourrait que vous l'ayez déjà ou que vous vous occupiez de la commander vous-même. Lorsque vous indiquez qu'une pièce doit être commandée, c'est que Clément au magasin va s'occuper de les commander.
 
+## Requis
+
+* Nom du fichier: commande-piece-<equipe>.xlsx
+* Nom et prénom des membres de l'équipe dans le tableur
+
 ## Évaluation
 Voici la grille de correction:
 
