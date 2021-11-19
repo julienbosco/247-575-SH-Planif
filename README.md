@@ -28,7 +28,7 @@ Disponible sur Omnivox ou via [Google Calendar](https://calendar.google.com/cale
 * [Cahier des charges](cahier-des-charges/)
 * [Commande de pièces](commande-pieces/)
 * [Devis technique](devis-technique/)
-* Fonctionnement du prototype
+* [Fonctionnement du prototype](prototype/)
 * Exposé oral
 * [Devis technique final](devis-technique/)
 
