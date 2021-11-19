@@ -33,6 +33,10 @@ Un exemple de devis technique réalisé par Hydro-Québec est aussi fourni en ex
 * Évaluation des coûts (coûts matériels, ne pas tenir compte de votre "salaire", utiliser le fichier `gabarit_couts.xlsx`)
 
 * Échéancier (sur 15 semaines, fournir un apercu des grandes étapes de votre projet jusqu'à sa réalisation, utiliser le fichier `gabarit-echeancier`)
+  * Semaine 5-6 : Envoi PCB au maximum
+  * Semaine 10 : Envoi du dernier PCB
+  * Semaine 10-11 : Finalisation du prototype, installation chez le client s'il y a lieu
+  * Semaine 11-15 : Ajout de fonctionnalités si prototype fonctionnel. Sinon, rendre le prototype fonctionnel
 
 * Maquette de l’interface usager (Interface web ou application)
 
