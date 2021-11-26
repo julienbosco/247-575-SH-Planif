@@ -24,7 +24,7 @@ Des scripts ou conteneurs peuvent être fourni comme documentation pour aider à
 
 ###  Montage
 
-Même s'il s'agit d'un prototype, il est important d'en produire un ordonné et résistant dans la mesure du possible. La qualité et robustesse est évaluée. Fournir la documentation nécessaire s'il y a des manipulations physiques à faire (hors électrique) pour arriver au montage final.
+Même s'il s'agit d'un prototype, il est important d'en produire un ordonné et résistant dans la mesure du possible. Vous devez le placer sur une planche de bois (ou autre matériel). Toutes les composantes doivent être fixées et branchées lors de l'évaluation du prototype. La qualité et robustesse est évaluée. Fournir la documentation nécessaire s'il y a des manipulations physiques à faire (hors électrique) pour arriver au montage final.
 
 ## Pondération
 
